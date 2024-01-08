@@ -1,0 +1,14 @@
+/Users/mihailkocetov/Projects/Lab_3(3)/obj/Debug/net7.0/Lab_3(3).GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihailkocetov/Projects/Lab_3(3)/obj/Debug/net7.0/Lab_3(3).AssemblyInfoInputs.cache
+/Users/mihailkocetov/Projects/Lab_3(3)/obj/Debug/net7.0/Lab_3(3).AssemblyInfo.cs
+/Users/mihailkocetov/Projects/Lab_3(3)/obj/Debug/net7.0/Lab_3(3).csproj.CoreCompileInputs.cache
+/Users/mihailkocetov/Projects/Lab_3(3)/bin/Debug/net7.0/Lab_3(3)
+/Users/mihailkocetov/Projects/Lab_3(3)/bin/Debug/net7.0/Lab_3(3).deps.json
+/Users/mihailkocetov/Projects/Lab_3(3)/bin/Debug/net7.0/Lab_3(3).runtimeconfig.json
+/Users/mihailkocetov/Projects/Lab_3(3)/bin/Debug/net7.0/Lab_3(3).dll
+/Users/mihailkocetov/Projects/Lab_3(3)/bin/Debug/net7.0/Lab_3(3).pdb
+/Users/mihailkocetov/Projects/Lab_3(3)/obj/Debug/net7.0/Lab_3(3).dll
+/Users/mihailkocetov/Projects/Lab_3(3)/obj/Debug/net7.0/refint/Lab_3(3).dll
+/Users/mihailkocetov/Projects/Lab_3(3)/obj/Debug/net7.0/Lab_3(3).pdb
+/Users/mihailkocetov/Projects/Lab_3(3)/obj/Debug/net7.0/Lab_3(3).genruntimeconfig.cache
+/Users/mihailkocetov/Projects/Lab_3(3)/obj/Debug/net7.0/ref/Lab_3(3).dll
